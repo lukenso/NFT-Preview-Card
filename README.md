@@ -8,6 +8,7 @@
 ### Created with
 - HTML5
 - CSS 
+- Flexbox
 
 ### Author
 Linkedin - [Luka Koridze](https://www.linkedin.com/in/luka-koridze-4397571a4/)
