@@ -2,7 +2,7 @@
 ### This is a solution to the NFT Preview Card. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ### Links:
-#### Template URL - [Click here](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+#### Template URL - [Click here](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
 #### Live Site URL: [Click here](https://lukenso.github.io/NFT-Preview-Card/)
 
 ### Created with
