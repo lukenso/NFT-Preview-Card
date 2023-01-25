@@ -2,7 +2,7 @@
 
 This HTML & CSS only challenge is perfect for anyone just starting out or anyone wanting a small project to play around with.
 
-![Logo](https://res.cloudinary.com/dz209s6jk/image/upload/v1637582314/Challenges/lphlhinp8axkoadq4jq7.jpg)
+[Logo](https://res.cloudinary.com/dz209s6jk/image/upload/v1637582314/Challenges/lphlhinp8axkoadq4jq7.jpg)
 
 ## Created with
 
@@ -11,7 +11,7 @@ This HTML & CSS only challenge is perfect for anyone just starting out or anyone
 - Flexbox
 ## Resources
 
-- Solution URL: [Click here]([https://www.frontendmentor.io/solutions/qr-code-component-7lmZsdjcKX](https://www.frontendmentor.io/solutions/nft-preview-card-component-V8OmhBd7EJ))
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/nft-preview-card-component-V8OmhBd7EJ)
 - Live Site URL: [Click here](https://lukenso.github.io/NFT-Preview-Card/)
 ## Author
 
