@@ -11,5 +11,5 @@
 - Flexbox
 
 ### Author
-Linkedin - [Luka Koridze](https://www.linkedin.com/in/luka-koridze-4397571a4/)
-FrontEndMentor - [Click here](https://www.frontendmentor.io/profile/lukenso)
+- Linkedin - [Luka Koridze](https://www.linkedin.com/in/luka-koridze-4397571a4/)
+- FrontEndMentor - [Click here](https://www.frontendmentor.io/profile/lukenso)
