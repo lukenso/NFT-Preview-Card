@@ -2,7 +2,7 @@
 
 This HTML & CSS only challenge is perfect for anyone just starting out or anyone wanting a small project to play around with.
 
-[Logo](https://res.cloudinary.com/dz209s6jk/image/upload/v1637582314/Challenges/lphlhinp8axkoadq4jq7.jpg)
+![Logo](https://res.cloudinary.com/dz209s6jk/image/upload/v1637582314/Challenges/lphlhinp8axkoadq4jq7.jpg)
 
 ## Created with
 
