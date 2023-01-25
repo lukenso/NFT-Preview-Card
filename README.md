@@ -11,8 +11,8 @@ This HTML & CSS only challenge is perfect for anyone just starting out or anyone
 - Flexbox
 ## Resources
 
-- Solution URL: [Click here](https://www.frontendmentor.io/solutions/qr-code-component-7lmZsdjcKX)
-- Live Site URL: [Click here](https://lukenso.github.io/QR-Code-Component/)
+- Solution URL: [Click here]([https://www.frontendmentor.io/solutions/qr-code-component-7lmZsdjcKX](https://www.frontendmentor.io/solutions/nft-preview-card-component-V8OmhBd7EJ))
+- Live Site URL: [Click here](https://lukenso.github.io/NFT-Preview-Card/)
 ## Author
 
 - LinkedIn - [Luka Koridze](https://www.linkedin.com/in/luka-koridze-4397571a4/)
